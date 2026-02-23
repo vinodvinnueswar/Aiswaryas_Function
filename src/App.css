@@ -385,6 +385,11 @@ body{
   box-shadow: 0 0 25px rgba(212,175,55,0.8);
 }
 
+.mobile-note{
+  display: none;
+}
+
+
 
 
 @media (min-width:1025px){
